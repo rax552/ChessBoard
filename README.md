@@ -1,2 +1,2 @@
 # ChessBoard
-ChessBoard Using HTML5 &amp; CSS3
+Make a ChessBoard Using HTML5 &amp; CSS3
